@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+  }
+  
+.container{
+    background-color:white;
+    width: 960px;
+    margin: auto;
+    padding: auto;
+
+
+}
